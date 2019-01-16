@@ -87,8 +87,11 @@ export default {
 </script>
 
 <style scoped>
-.fontcontainer{
-    padding-right:10px;
-}
+    .fontcontainer{
+        padding-right:10px;
+    }
+    .iconfont{
+        color: #393D49;
+    }
 </style>
 
